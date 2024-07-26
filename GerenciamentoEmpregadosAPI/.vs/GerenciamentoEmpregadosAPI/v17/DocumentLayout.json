@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|c:\\users\\pedro alves\\desktop\\exercicio tecgraf\\gerenciamento-empregados-api\\gerenciamentoempregadosapi\\routes\\employeeroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|solutionrelative:routes\\employeeroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|c:\\users\\pedro alves\\desktop\\exercicio tecgraf\\gerenciamento-empregados-api\\gerenciamentoempregadosapi\\models\\addemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|solutionrelative:models\\addemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|c:\\users\\pedro alves\\desktop\\exercicio tecgraf\\gerenciamento-empregados-api\\gerenciamentoempregadosapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|c:\\users\\pedro alves\\desktop\\exercicio tecgraf\\gerenciamento-empregados-api\\gerenciamentoempregadosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|c:\\users\\pedro alves\\desktop\\exercicio tecgraf\\gerenciamento-empregados-api\\gerenciamentoempregadosapi\\models\\employeebasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|solutionrelative:models\\employeebasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|c:\\users\\pedro alves\\desktop\\exercicio tecgraf\\gerenciamento-empregados-api\\gerenciamentoempregadosapi\\models\\employeedetailedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|solutionrelative:models\\employeedetailedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|c:\\users\\pedro alves\\desktop\\exercicio tecgraf\\gerenciamento-empregados-api\\gerenciamentoempregadosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|c:\\users\\pedro alves\\desktop\\exercicio tecgraf\\gerenciamento-empregados-api\\gerenciamentoempregadosapi\\models\\modifyemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C26B5-4B14-4312-AE7B-141E6DC10C6C}|GerenciamentoEmpregadosAPI.csproj|solutionrelative:models\\modifyemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:25:21.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\AddEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AddEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\AddEmployeeRequest.cs",
+              "RelativeToolTip": "Models\\AddEmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:33:51.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDetailedInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\EmployeeDetailedInfo.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDetailedInfo.cs",
+              "ToolTip": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\EmployeeDetailedInfo.cs",
+              "RelativeToolTip": "Models\\EmployeeDetailedInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:40:26.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeBasicInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\EmployeeBasicInfo.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeBasicInfo.cs",
+              "ToolTip": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\EmployeeBasicInfo.cs",
+              "RelativeToolTip": "Models\\EmployeeBasicInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:34:54.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:43:32.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Routes\\EmployeeRoutes.cs",
+              "RelativeDocumentMoniker": "Routes\\EmployeeRoutes.cs",
+              "ToolTip": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Routes\\EmployeeRoutes.cs",
+              "RelativeToolTip": "Routes\\EmployeeRoutes.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:57:45.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModifyEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\ModifyEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ModifyEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\ModifyEmployeeRequest.cs",
+              "RelativeToolTip": "Models\\ModifyEmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:39:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Pedro Alves\\Desktop\\Exercicio Tecgraf\\Gerenciamento-Empregados-API\\GerenciamentoEmpregadosAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:17:23.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

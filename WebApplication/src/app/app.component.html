@@ -1,0 +1,113 @@
+<h1>Empregados</h1>
+
+<!-- Formulário de filtro de empregados -->
+<div>
+  <h2>Filtrar Empregados</h2>
+  <form (ngSubmit)="filterEmployees()">
+    <table>
+      <tr>
+        <td><label for="filterFirstName">Nome:</label></td>
+        <td><input id="filterFirstName" [(ngModel)]="filter.firstName" name="filterFirstName"></td>
+      </tr>
+      <tr>
+        <td><label for="filterLastName">Sobrenome:</label></td>
+        <td><input id="filterLastName" [(ngModel)]="filter.lastName" name="filterLastName"></td>
+      </tr>
+      <tr>
+        <td><label for="filterEmail">Email:</label></td>
+        <td><input id="filterEmail" [(ngModel)]="filter.email" name="filterEmail"></td>
+      </tr>
+      <tr>
+        <td><label for="filterCpf">CPF:</label></td>
+        <td><input id="filterCpf" [(ngModel)]="filter.cpf" name="filterCpf"></td>
+      </tr>
+      <tr>
+        <td><button type="submit">Filtrar</button></td>
+      </tr>
+    </table>
+  </form>
+</div>
+
+<!-- Lista de empregados -->
+ <div>
+  <h2>Lista de Empregados</h2>
+  <ul>
+    <table>
+      <tr>
+        <li *ngFor="let employee of employees$ | async">
+          <td>{{employee.firstName}} {{employee.lastName}} - {{employee.email}} - {{employee.cpf}}</td>
+          <td><button (click)="setEmployeeToUpdate(employee)">Editar</button></td>
+          <td><button (click)="employee.cpf && deleteEmployee(employee.cpf)">Deletar</button></td>
+        </li>
+      </tr>
+    </table>
+  </ul>
+ </div>
+
+ <!-- Formulário para atualizar empregado -->
+  <div *ngIf="employeeToUpdate">
+    <h2>Atualizar Empregado</h2>
+    <form (ngSubmit)="updateEmployee()">
+      <table>
+        <tr>
+          <td><label>Nome:</label></td>
+          <td><input [(ngModel)]="employeeToUpdate.firstName" name="updateFirstName"></td>
+        </tr>
+        <tr>
+          <td><label>Sobrenome:</label></td>
+          <td><input [(ngModel)]="employeeToUpdate.lastName" name="updateLastName"></td>
+        </tr>
+        <tr>
+          <td><label>Email:</label></td>
+          <td><input [(ngModel)]="employeeToUpdate.email" name="updateEmail"></td>
+        </tr>
+        <tr>
+          <td><label>CPF: {{employeeToUpdate.cpf}} </label></td>
+          <!-- <td><input [(ngModel)]="employeeToUpdate.cpf" name="updateCPF"></td> -->
+        </tr>
+        <tr>
+          <td><label>Data de Nascimento:</label></td>
+          <td><input [(ngModel)]="employeeToUpdate.dateOfBirth" name="updateDateOfBirth" type="date"></td>
+        </tr>
+        <tr>
+          <td><label>Endereço:</label></td>
+          <td><input [(ngModel)]="employeeToUpdate.address" name="updateAddress"></td>
+        </tr>
+        <tr>
+          <td><label>Atualmente Empregado:</label></td>
+          <td><input [(ngModel)]="employeeToUpdate.currentlyEmployed" name="updateCurrentlyEmployed" type="checkbox"></td>
+        </tr>
+        <tr>
+          <td><button type="submit">Atualizar</button></td>
+        </tr>
+    </table>
+    </form>
+  </div>
+
+  <!-- Formulário para adicionar empregado -->
+  <div>
+    <h2>Adicionar Empregado</h2>
+    <form (ngSubmit)="addEmployee()">
+      <table>
+        <tr>
+          <td><label>Nome:</label></td>
+          <td><input [(ngModel)]="newEmployee.firstName" name="addFirstName"></td>
+        </tr>
+        <tr>
+          <td><label>Sobrenome:</label></td>
+          <td><input [(ngModel)]="newEmployee.lastName" name="addLastName"></td>
+        </tr>
+        <tr>
+          <td><label>Email:</label></td>
+          <td><input [(ngModel)]="newEmployee.email" name="addEmail"></td>
+        </tr>
+        <tr>
+          <td><label>CPF:</label></td>
+          <td><input [(ngModel)]="newEmployee.cpf" name="addCPF"></td>
+        </tr>
+        <tr>
+          <td><button type="submit">Adicionar</button></td>
+        </tr>
+      </table>
+    </form>
+  </div>
